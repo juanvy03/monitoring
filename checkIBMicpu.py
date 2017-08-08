@@ -4,7 +4,8 @@ import re
 import sys
 import subprocess
 
-# Requisites:
+# Requirements:
+# - Python3
 # - SSH connection by KEYs
 #
 # Usage:
