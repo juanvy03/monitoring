@@ -4,8 +4,11 @@ import re
 import sys
 import subprocess
 
+# Requisites:
+# - SSH connection by KEYs
 #
-# Usage: python3 checkIBMicpu.py <HOST> -w <WARNING> -c <CRITICAL>
+# Usage:
+#  python3 checkIBMicpu.py <HOST> -w <WARNING> -c <CRITICAL>
 #
 #                             jmaillourbano@gmail.com
 ################
